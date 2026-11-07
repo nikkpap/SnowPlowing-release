@@ -23,7 +23,8 @@
 - 📊 **Εξαγωγή Excel** στην ίδια μορφή, με τύπους, λίστες επιλογών και στήλη «Έλεγχος»
 - 🗄 **Βάση δεδομένων** με όλες τις χρονιές και καθημερινά αντίγραφα ασφαλείας
 - 🔎 **Αναζήτηση σε όλα τα έτη**: όνομα, πινακίδα, σημείο, ημερομηνία, αριθμός σύμβασης…
-- 📱 **Καταχώρηση από κινητό** μέσω Wi-Fi (QR code + PIN, χωρίς εφαρμογή)
+- 📱 **Καταχώρηση από κινητό** μέσω Wi-Fi ή **Tailscale από παντού (4G)** — QR code + PIN, χωρίς εφαρμογή
+- 🎨 **Φωτεινό / σκοτεινό θέμα**, αυτόματα όπως τα Windows
 - 💶 **Κόστος** με τιμή ανά ώρα για κάθε είδος μηχανήματος
 - 🔄 **Αυτόματες ενημερώσεις**: το πρόγραμμα βρίσκει μόνο του τη νέα έκδοση
 
@@ -57,6 +58,20 @@
 | ③ Λίστες | Μηχανήματα, έδρες, τιμές €/ώρα, συμβάσεις |
 | ④ Αναφορά | «Και τα δύο» → PDF + Excel στον ίδιο φάκελο |
 
+## 🌍 Καταχώρηση από παντού με Tailscale (για αρχάριους)
+
+Το Tailscale φτιάχνει ένα ιδιωτικό, κρυπτογραφημένο «τούνελ» ανάμεσα στο κινητό και τον υπολογιστή — χωρίς ρυθμίσεις στο ρούτερ.
+
+**Υπολογιστής (μία φορά):** κατεβάστε το [Tailscale για Windows](https://tailscale.com/download/windows) → εγκατάσταση →
+εικονίδιο κάτω δεξιά → **Log in** με Google ή Microsoft λογαριασμό.
+
+**Κινητό (κάθε οδηγός):** Play Store / App Store → **Tailscale** → Log in με τον **ίδιο** λογαριασμό → **Connect** → OK στο VPN.
+
+**SnowPlowing:** 📱 Κινητά → **Έναρξη** → επιλέξτε **🌍 Tailscale** → σκανάρισμα του QR → PIN.
+
+Δεν συνδέεται; Ο υπολογιστής ανοιχτός με το SnowPlowing σε λειτουργία · Tailscale «Connected» και στα δύο ·
+πατήστε «🛡 Άνοιγμα θύρας στο Τείχος». Για συναδέλφους με άλλο λογαριασμό: login.tailscale.com → Machines → ⋯ → **Share**.
+
 ## Στιγμιότυπα
 
 | | |
@@ -65,9 +80,10 @@
 | <img src="screenshots/04_forma_vardias.png" width="430"><br>Φόρμα βάρδιας με ζωντανό έλεγχο | <img src="screenshots/09_anazitisi.png" width="430"><br>Αναζήτηση σε όλα τα έτη |
 | <img src="screenshots/13_pdf_synopsi.png" width="430"><br>PDF — σύνοψη | <img src="screenshots/14_pdf_grafimata.png" width="430"><br>PDF — γραφήματα |
 | <img src="screenshots/15_pdf_kostos.png" width="430"><br>PDF — κόστος | <img src="screenshots/07_anafora_exagogi.png" width="430"><br>Αναφορά & εξαγωγή |
-| <img src="screenshots/08_kinita.png" width="430"><br>Σύνδεση κινητών (QR + PIN) | <img src="screenshots/16_forma_kinitou.png" width="200"><br>Φόρμα στο κινητό |
+| <img src="screenshots/08_kinita.png" width="430"><br>Σύνδεση κινητών: Wi-Fi ή Tailscale (QR + PIN) | <img src="screenshots/16_forma_kinitou.png" width="200"><br>Φόρμα στο κινητό |
 | <img src="screenshots/05_times.png" width="430"><br>Τιμές €/ώρα & ΦΠΑ | <img src="screenshots/06_symvaseis.png" width="430"><br>Συμβάσεις |
 | <img src="screenshots/10_rythmiseis.png" width="430"><br>Ρυθμίσεις & βάση δεδομένων | <img src="screenshots/11_eisagogi.png" width="430"><br>Εισαγωγή με προεπισκόπηση |
+| <img src="screenshots/17_skoteino_thema.png" width="430"><br>Σκοτεινό θέμα | |
 
 ## Συχνές ερωτήσεις
 
