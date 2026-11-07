@@ -25,6 +25,11 @@
 - 🗄 **Βάση δεδομένων** με όλες τις χρονιές και καθημερινά αντίγραφα ασφαλείας — και **☁️ στο OneDrive / Google Drive / Dropbox**
 - 🔎 **Αναζήτηση σε όλα τα έτη**: όνομα, πινακίδα, σημείο, ημερομηνία, αριθμός σύμβασης…
 - 📱 **Καταχώρηση από κινητό** μέσω Wi-Fi ή **Tailscale από παντού (4G)** — QR code + PIN, χωρίς εφαρμογή, με **📍 θέση GPS** και χάρτη βαρδιών
+- 🔧 **Service μηχανημάτων**: ώρες από το τελευταίο service, όριο, ειδοποίηση — και όταν ένα μηχάνημα μπει σε service,
+  **πρόταση αντικατάστασης** από τον ανάδοχο με τις λιγότερες ώρες τον μήνα
+- 📷 **Φωτογραφίες και ✍ υπογραφή οδηγού** από το κινητό, μέσα και στην πιστοποίηση
+- 🌨 **Καιρός ανά έδρα** (χιόνι, παγετός) δίπλα σε κάθε βάρδια και στις αναφορές
+- 🔔 **Ειδοποιήσεις και υπενθυμίσεις** · 📜 **ιστορικό αλλαγών** (ποιος, πότε, τι)
 - 🎨 **Φωτεινό / σκοτεινό θέμα**, αυτόματα όπως τα Windows
 - 💶 **Κόστος** με τιμή ανά ώρα για κάθε είδος μηχανήματος
 - 🔄 **Αυτόματες ενημερώσεις**: το πρόγραμμα βρίσκει μόνο του τη νέα έκδοση
@@ -88,6 +93,8 @@
 | <img src="screenshots/05_times.png" width="430"><br>Τιμές €/ώρα & ΦΠΑ | <img src="screenshots/06_symvaseis.png" width="430"><br>Συμβάσεις |
 | <img src="screenshots/10_rythmiseis.png" width="430"><br>Ρυθμίσεις & βάση δεδομένων | <img src="screenshots/11_eisagogi.png" width="430"><br>Εισαγωγή με προεπισκόπηση |
 | <img src="screenshots/18_pistopoiisi_pdf.png" width="430"><br>Πιστοποίηση αναδόχου (PDF) | <img src="screenshots/03_kataxoriseis.png" width="430"><br>Καταχωρήσεις με 📍 GPS |
+| <img src="screenshots/20_service.png" width="430"><br>Service και πρόταση αντικατάστασης | <img src="screenshots/21_ypenthymiseis.png" width="430"><br>Υπενθυμίσεις |
+| <img src="screenshots/22_fotografies_ypografi.png" width="430"><br>Φωτογραφίες και υπογραφή οδηγού | <img src="screenshots/23_istoriko_allagon.png" width="430"><br>Ιστορικό αλλαγών |
 | <img src="screenshots/19_cloud_antigrafa.png" width="430"><br>Αντίγραφα στο cloud | <img src="screenshots/17_skoteino_thema.png" width="430"><br>Σκοτεινό θέμα |
 
 ## Συχνές ερωτήσεις
